@@ -63,6 +63,21 @@ I created an interactive dashboard that showed total, completed, missed and canc
 
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Patient%20Engagement%20and%20Missed%20Appointment%20.jpg)
 
+## Answer to Questions
+
+**Which patients miss appointments the most?** 
+	From the table visuals, patient with patient id P002 missed appointment the most
+  
+**Are missed visits related to age or consultation type?**
+Yes, they are related to age. From the dashboard it can be deduced that patient with the age group 40 – 50years had missed visits.
+
+**What consultation type has the highest completion rate?**
+From the dashboard, the video consultation type had the highest completion rate.
+
+**Are there repeat offenders?**
+Yes, there was a repeat offender. Patient with patient id P002 missed his or her appointment twice.
+
+
 
 
 
