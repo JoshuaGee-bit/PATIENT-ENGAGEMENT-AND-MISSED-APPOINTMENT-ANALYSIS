@@ -56,8 +56,12 @@ To segment patients by engagement level, I created a calculated column using the
 ## 4.	Identify high-risk disengaged patients. 
 To identify high risk disengaged patients. I also created a calculated column and used the query below to get it.
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/High%20Risk%20Disengagement.jpg)
 
+## 5. Visualize appointment trends.
+I created an interactive dashboard that showed total, completed, missed and cancelled appointment, completion and missed appointment rates with visual cards. Charts containing Total appointment by status, missed appointments by age group, total and completed appointments by consult type, missed group by age group, slicers containing gender, status, location, consult type, date, age group, patient id by engagement level. 
+
+![image alt]()
 
 
 
