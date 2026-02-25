@@ -39,6 +39,10 @@ I copied the patients and consultations dataset from the link provided https://d
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
 
 ## Merged Dataset
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Merged%20Dataset.jpg)
+
+## 2. Calculate completion, missed, and cancellation rate
+To get the missed, cancelled and completion rate. I created a measure for each of them using the DAX queries below to get them.
 ![image alt]()
 
 
