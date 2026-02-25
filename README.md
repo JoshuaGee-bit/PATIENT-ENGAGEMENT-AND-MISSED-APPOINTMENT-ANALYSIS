@@ -61,7 +61,7 @@ To identify high risk disengaged patients. I also created a calculated column an
 ## 5. Visualize appointment trends.
 I created an interactive dashboard that showed total, completed, missed and cancelled appointment, completion and missed appointment rates with visual cards. Charts containing Total appointment by status, missed appointments by age group, total and completed appointments by consult type, missed group by age group, slicers containing gender, status, location, consult type, date, age group, patient id by engagement level. 
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Patient%20Engagement%20and%20Missed%20Appointment%20.jpg)
 
 
 
