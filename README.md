@@ -12,6 +12,7 @@ Remote health noticed an increase in missed and cancelled appointments that impa
 - [Methodology](#Methodology)
 - [Answer to Questions](#answer-to-questions)
 - [Recommendations](summary-and-recommendations)
+- [Conclusion](conclusion)
 
 ## Tools Used
 - Microsoft Power BI
@@ -76,6 +77,19 @@ From the dashboard, the video consultation type had the highest completion rate.
 
 **Are there repeat offenders?**
 Yes, there was a repeat offender. Patient with patient id P002 missed his or her appointment twice.
+
+## Retention Strategy Recommendations
+- Implement automated SMS/email reminders before appointments
+- Remote health can offer incentives for completed appointments
+- Encourage Video consultations over Chat for better appointment completion.
+- Flag repeat offenders i.e patient (P002) should be scheduled for follow-up calls
+- Remote health should provide flexible rescheduling options.
+- Patients should be educated on importance of appointment adherence.
+- Introduce penalty or rebooking policy for repeat missed visits.
+
+## Conclusion
+Analysis of consultation data shows that 42.9% of missed appointments and 14.2% of cancelled appointment, indicating a significant engagement challenge. Chat-based consultations recorded the highest missed rate, while video consultations had the highest completion rate. Patient P002 was identified as a repeat offender with two missed appointments, classifying them as a disengaged patient. Most highly engaged patients completed all scheduled consultations. These findings suggest that consultation type and patient behavior play a key role in appointment adherence.
+
 
 
 
