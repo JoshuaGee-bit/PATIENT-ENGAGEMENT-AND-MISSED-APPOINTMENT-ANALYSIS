@@ -51,7 +51,14 @@ To get the missed, cancelled and completion rate. I created a measure for each o
 ## 3. Segment Patient by Engagement Level	
 To segment patients by engagement level, I created a calculated column using the DAX query below.
 
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Engagement%20Level.jpg)
+
+## 4.	Identify high-risk disengaged patients. 
+To identify high risk disengaged patients. I also created a calculated column and used the query below to get it.
+
 ![image alt]()
+
+
 
 
 
