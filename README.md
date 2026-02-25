@@ -44,6 +44,7 @@ I copied the patients and consultations dataset from the link provided https://d
 ## 2. Calculate completion, missed, and cancellation rate
 To get the missed, cancelled and completion rate. I created a measure for each of them using the DAX queries below to get them.
 ![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Completed%20Appointment.jpg)
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Cancelled%20Appointment.jpg)
 ![image alt]()
 
 
