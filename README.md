@@ -35,9 +35,12 @@ Remote health noticed an increase in missed and cancelled appointments that impa
 I copied the patients and consultations dataset from the link provided https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the patients and consultations datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform and merge both datasets.
 
 ## Datasets
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-ENGAGEMENT-AND-MISSED-APPOINTMENT-ANALYSIS/blob/main/Consultations%20Dataset.jpg)
+![image alt](https://github.com/JoshuaGee-bit/PATIENT-HEALTH-RISK-ANALYSIS-AND-STRATIFICATION-REPORT/blob/main/Patients%20Dataset.jpg)
+
+## Merged Dataset
 ![image alt]()
 
-![image alt]
 
 
 
